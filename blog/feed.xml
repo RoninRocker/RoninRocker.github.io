@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Istio Blog</title><description>Blog posts from the Istio service mesh.</description><link/><image><title>Istio Blog</title><url>/favicons/android-192x192.png</url><link/></image><category>Service mesh</category><item><title>Merbridge - Accelerate your mesh with eBPF</title><description><![CDATA[
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Istio Blog</title><description>Blog posts from the Istio service mesh.</description><lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><link/><image><title>Istio Blog</title><url>/favicons/android-192x192.png</url><link/></image><category>Service mesh</category><item><title>Merbridge - Accelerate your mesh with eBPF</title><description><![CDATA[
 
 <p>The secret of Istio’s abilities in traffic management, security, observability and policy is all in the Envoy proxy. Istio uses Envoy as the &ldquo;sidecar&rdquo; to intercept service traffic, with the kernel&rsquo;s <code>netfilter</code> packet filter functionality configured by iptables.</p>
 
